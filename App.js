@@ -22,9 +22,12 @@ import StyleIcon from "./app/Styling/StyleIcon";
 import PlatformSpecificCode from "./app/Styling/PlatformSpecificCode";
 import OrganizingStyles from "./app/Styling/OrganizingStyles";
 import AppButtonNew from "./app/Styling/AppButtonNew";
+import CardView from "./app/Styling/CardView";
+import ListingDetailsScreen from "./app/Styling/ListingDetailsScreen";
 import WelcomeScreen from "./app/screen/WelcomeScreen";
 import WelcomeNew from "./app/screen/WelcomeNew";
+import ViewImageScreen from "./app/screen/ViewImageScreen";
 
 export default function App() {
-  return <WelcomeNew></WelcomeNew>;
+  return <ViewImageScreen></ViewImageScreen>;
 }
