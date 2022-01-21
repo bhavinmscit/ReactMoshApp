@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "react-native-web";
+import { View } from "react-native";
 import Card from "../componant/Card";
 
 function CardView(props) {
