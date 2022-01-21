@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   text: {
     color: "red",
     fontSize: 18,
-    fontFamily: "Robot",
+    // fontFamily: "Robot",
   },
 });
 

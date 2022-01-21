@@ -1,6 +1,6 @@
 import React from "react";
 import { Image } from "react-native";
-import { View, StyleSheet } from "react-native-web";
+import { View, StyleSheet } from "react-native";
 import AppText from "./AppTextNew/AppTextNew";
 import colors from "./colors";
 
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   },
   subTitle: {
     color: colors.secondary,
-    fontWight: "bold",
+    fontWeight: "bold",
   },
 });
 
